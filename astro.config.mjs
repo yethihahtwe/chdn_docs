@@ -4,12 +4,16 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://docs.chdn-karenni.org',
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: {
-				github: 'https://github.com/withastro/starlight',
+			title: 'CHDN Documentations',
+			logo: {
+				src: './src/assets/logo.png',
 			},
+			// social: {
+			// 	github: 'https://github.com/withastro/starlight',
+			// },
 			sidebar: [
 				{
 					label: 'Guides',
