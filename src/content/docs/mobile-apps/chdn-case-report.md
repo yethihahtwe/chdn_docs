@@ -8,60 +8,89 @@ CHDN Case Report mobile application ဟာ အင်တာနက်ဆက်သ�
 Android ဖုန်း/တက်ဘလက်တွေမှာ အဓိကအသုံးပြုနိုင်မှာဖြစ်ပြီး မိမိအဖွဲ့အစည်းအတွင်း၌သာ ဖြန့်ဝေအသုံးပြုတာဖြစ်ပါတယ်။
 
 ## Downloading mobile application
+
+:::tip
 မိမိဖုန်း/တက်ဘလက်ထဲမှာ CHDN Case Report mobile application ရှိပြီးသားဆိုရင် ဒီအပိုင်းကိုကျော်သွားလို့ရပါတယ်။ Case Report application ဟာ Play Store ပေါ်မှာမတင်ဘဲ ကိုယ့်အဖွဲ့အစည်းနဲ့ကိုယ် ဖြန့်ဝေတာမို့လို့ install မလုပ်ခင် Setting ထဲမှာသွားပြင်ပေးဖို့လိုပါတယ်။
+:::
 
 ### Security and privacy settings
+ဖုန်း/တက်ဘလက်အမျိုးအစားပေါ်မူတည်ပြီး Setting ကွာခြားမှုရှိနိုင်ပါတယ်။ ယခုဥပမာမှာတော့ Samsung Galaxy Tab A7 Lite မှာ Setting ပြောင်းလဲပုံကိုဖော်ပြထားပါတယ်။
 * ဖုန်း/တက်ဘလက်ရဲ့ Settings ကိုသွားပါ
 * Security and privacy ကိုသွားပါ
 * Install unknown apps ကိုသွားပါ
+
+![Security and Privacy settings](/src/assets/case-report/security-and-privacy.png)
+
 * Chrome ရဲ့ဘေးမှာဖွင့်ပေးပါ။ Chrome browser ကနေ download လုပ်လိုက်တဲ့ application တွေကို install ပေးလုပ်အောင်ဖွင့်ပေးတာဖြစ်ပါတယ်။
+
+![Turn on chrome](/src/assets/case-report/turn-on-chrome.png)
+
+ဒါပြီးရင် Application download ပြီး install လို့ရပါပြီ။
 
 ### Downloading the application
 mobile application ကို download လုပ်ဖို့အတွက် [CHDN Portal](https://portal.chdn-karenni.org) ကိုသွားပါ။
-* Login အောက်ဆုံးက Download Mobile Apps ကိုနှိ်ပါ
+* Login အောက်ဆုံးက Download Mobile Apps ကိုနှိပ်ပါ
+
+![Go to homepage](/src/assets/case-report/go-to-homepage.png)
+
 * CHDN Malaria Case Report tab ကိုသွားပါ
 * Download App ခလုတ်ကိုနှိပ်ပါ
-* Chrome မှာ download ပြီးသွားရင် CHDNcR.apk ဖိုင်ကိုဖွင့်ပါ
+
+![Download](/src/assets/case-report/download.png)
+
+* Chrome မှာ download ပြီးသွားရင် CHDNCR.apk ဖိုင်ကိုဖွင့်ပါ
+
+![Downloaded file](/src/assets/case-report/downloaded-file.png)
+
 * Install ကိုနှိပ်ပါ
+* Send app for scan ပေါ်လာရင် Don't send ကိုနှိပ်ပါ
+
+![Dont' send](/src/assets/case-report/dont-send-app-scan.png)
+
 * Install လုပ်ပြီးသွားရင် Open ကိုနှိပ်ပါ
 
 ## Initial Application Setup
 Application ကို install လုပ်ပြီးပြီဆိုတာနဲ့ အင်တာနက်ချိတ်ဆက်မှုမရှိလည်း စတင်အသုံးပြုနိုင်ပြီဖြစ်ပါတယ်။ အင်တာနက်ဆက်သွယ်မှုမရရှိတဲ့နေရာတွေမှာ အသုံးပြုနိုင်ဖို့အဓိကရည်ရွယ်တာကြောင့် Account login ဝင်ရတဲ့စနစ်နဲ့မဟုတ်ဘဲ မိမိ profile information ကိုဖြည့်သွင်းပြီးစတင်အသုံးပြုရတဲ့ offline-first approach ကိုအသုံးပြုထားပါတယ်။
-:::info
+:::note[Info]
 Profile information နဲ့ Volunteer information ဟာ application စတင်အသုံးပြုတဲ့အချိန်နဲ့ အချက်အလက်တွေ update လုပ်ဖို့လိုတဲ့အချိန်ပဲ ဖြည့်ပေးဖို့လိုပါတယ်
 :::
 
 ### Profile information
-:::note
+
+:::caution
 Profile information မှာအချက်အလက်ထည့်သွင်းတဲ့အခါ English စာလုံးနဲ့ထည့်သွင်းပေးဖို့လိုပါတယ်
 :::
+
 Application ဖွင့်ကာစမှာ profile page ကိုအရင်တွေ့ရပါမယ်။ စသုံးသုံးချင်းမှာ မိမိ profile information ကိုအရင်ဖြည့်ဖို့လိုပါတယ်။
 * ကျေးရွာအမည်မှာ မိမိကျေးရွာရှာမတွေ့ဘူးဆိုရင် "ကျေးရွာအမည်ရှာမတွေ့ပါ" ကိုအမှန်ခြစ်ပါ
 * မိမိကျေးရွာအမည်ကိုထပ်မံရိုက်ထည့်ပါ
 * အချက်အလက်များ ပြည့်စုံအောင်ထည့်သွင်းပြီးတဲ့အခါ Save Profile ခလုတ်ကိုနှိပ်ပါ
 * ပြည့်ပြည့်စုံစုံထည့်သွင်းပြီးပြီဆိုရင် Home စာမျက်ကိုရောက်ပါမယ်
 * အောက်ဆုံးက navigation menu က Profile ကိုနှိပ်ပြီး မိမိ profile information ကိုပြန်လည်ကြည့်ရှုနိုင်ပါတယ်
+
+![Profile Icon](/src/assets/case-report/profile-nav.png)
+
 * profile မှာ တခုခု update လုပ်ဖို့လိုလာတိုင်း Edit Profile ခလုတ်ကိုနှိပ်ပြီး ဖြည့်နိုင်ပါတယ်
 
 ### Volunteer information
-:::note
+:::caution
 Volutneer အချက်အလက်တွေထည့်သွင်းတဲ့အခါ English စာလုံးနဲ့ထည့်သွင်းပေးဖို့လိုပါတယ်
 :::
-Profile information က အချက်အလက်ဖြည့်သွင်းသူရဲ့ အချက်အလက်တွေဖြစ်ပြီး volunteer information ကတော့ငှက်ဖျားစေတနာ့ဝန်ထမ်းတွေရဲ့ အချက်အလက်တွေဖြစ်ပါတယ်။ အချက်အလက်ဖြည့်သွင်းသူကိုယ်တိုင် ငှက်ဖျားစေတနာ့ဝန်ထမ်းဖြစ်နေမယ်ဆိုရင် profile information မှာကော Volunteer information မှာကော နှစ်ခါဖြည့်ပေးဖို့လိုပါတယ်။ profile information မှာလူတစ်ယောက်တည်းရဲ့ အချကအလက်တွေဖြည့်ပေးဖို့လိုပြီး voluteer information မှာ မိမိသက်ဆိုင်ရာဒေသအလိုက် စေတနာ့ဝန်ထမ်းအရေအတွက်များစွာ ထည့်သွင်းထားနိုင်ပါတယ်။
+Profile information က အချက်အလက်ဖြည့်သွင်းသူရဲ့ အချက်အလက်တွေဖြစ်ပြီး volunteer information ကတော့ငှက်ဖျားစေတနာ့ဝန်ထမ်းတွေရဲ့ အချက်အလက်တွေဖြစ်ပါတယ်။ အချက်အလက်ဖြည့်သွင်းသူကိုယ်တိုင် ငှက်ဖျားစေတနာ့ဝန်ထမ်းဖြစ်နေမယ်ဆိုရင် profile information မှာကော Volunteer information မှာကော နှစ်ခါဖြည့်ပေးဖို့လိုပါတယ်။ profile information မှာလူတစ်ယောက်တည်းရဲ့ အချက်အလက်တွေဖြည့်ပေးဖို့လိုပြီး voluteer information မှာ မိမိသက်ဆိုင်ရာဒေသအလိုက် စေတနာ့ဝန်ထမ်းအရေအတွက်များစွာ ထည့်သွင်းထားနိုင်ပါတယ်။
 * Home စာမျက်နှာမှာ Add Record ခလုတ်ကိုနှိပ်ပါ
 * Volunteer အချက်အလက်မရှိသေးကြောင်း အသိပေးချက်ပေါ်လာရင် OK နှိပ်ပါ
 * ငှက်ဖျားစေတနာ့ဝန်ထမ်းအချက်အလက်ထည့်သွင်းပါ
 * volunteer list စာမျက်နှာပြန်ရောက်ရင် Add Volunteer ခလုတ်ကိုနှိပ်ပြီး ထပ်မံထည့်သွင်းနိုင်ပါတယ်
 
 ## Entering Malaria Information
-:::note
+:::caution
 ငှက်ဖျားစစ်ဆေးမှုအချက်အလက်တွေထည့်သွင်းတဲ့အခါ လိပ်စာနဲ့မှတ်ချက်ကလွဲပြီး ကျန်အချက်အလက်တွေကို English စာလုံးနဲ့ဖြည့်သွင်းပေးဖို့လိုပါတယ်
 :::
 * Home ကိုပြန်သွားပါ။ Add Record ခလုတ်ကိုနှိပ်ပါ
 * အချက်အလက်ပေးဖို့သူနေရာမှာ မိမိဖြည့်သွင်းခဲ့တဲ့ profile information ထဲကအတိုင်းပြပေးပါမယ်
 * အနီရောင်ကြယ်ပွင့်ပြထားတဲ့ နေရာတွေဟာ မဖြစ်မနေထည့်သွင်းပေးရမယ့်အချက်အလက်တွေဖြစ်ပါတယ်။
 * Volunteer ထဲမှာ RDT test စစ်ပေးတဲ့ စေတနာ့ဝန်ထမ်းအမည်ကိုရွေးချယ်ပါ။ 
-:::note
+:::tip[Volunteer ရွေးရမည့်အထဲမပါသေးလျှင်]
 Volunteer ရွေးစရာထဲမှာ မိမိရွေးချင်တဲ့အမည်မပါသေးရင် navigation menu က Volunteers ထဲမှာထပ်မံထည့်သွင်းနိုင်ပါတယ်
 :::
 * Reporting month ကိုရွေးပါ။ ယခုလက်ရှိလကိုပဲရွေးလို့ရမှာဖြစ်ပါတယ်
@@ -87,6 +116,9 @@ Volunteer ရွေးစရာထဲမှာ မိမိရွေးချင
 အချက်အလက်ထည့်သွင်းတာအောင်မြင်သွားရင် Home စာမျက်နှာကိုရောက်ပါမယ်။ မိမိထည့်သွင်းထားတဲ့ patient စာရင်းကိုတွေ့ရပါမယ်။ နောက်ဆုံးဖြည့်သွင်းတဲ့အချက်အလက်တွေကို ထိပ်ဆုံးမှာထားပြီးပြပေးပါမယ်
 * Up arrow icon နဲ့ပြပေးတဲ့အချက်အလက်တွေဟာ မိမိစက်ထဲမှာပဲသိမ်းထားတာဖြစ်ပြီး ပင်မ database ကိုမပို့ရသေးဘူးလို့ဆိုလိုပါတယ်
 * RDT positive လူနာတွေကို အနီရောင် highlight နဲ့ပြပေးပါတယ်
+
+![Patient row](/src/assets/case-report/patient-row.png)
+
 * patient record တစ်ခုစီရဲ့ညာဘက်မှာ အစက်သုံးစက်ခလုတ်ကိုနှိပ်ပါ။ "အသေးစိတ်ကြည့်ရန်" ကိုဆက်နှိပ်ပါ။ ငှက်ဖျားစစ်ဆေးမှုမှတ်တမ်းကို ပြန်လည်ကြည့်ရှုနိုင်ပါတယ်
 * မှတ်တမ်းများပြန်ပြင်စရာရှိလို့ update လုပ်ချင်ရင် "ပြင်ရန်" ခလုတ်ကိုနှိပ်ပါ
 
