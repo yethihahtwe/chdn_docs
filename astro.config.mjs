@@ -16,9 +16,6 @@ export default defineConfig({
 			// },
 			sidebar: [
 				{
-					label: 'Getting Started', slug: 'getting-started',
-				},
-				{
 					label: 'Mobile Applications', items: [
 						{label: 'CHDN Case Report', slug: 'mobile-apps/chdn-case-report'},
 					],
