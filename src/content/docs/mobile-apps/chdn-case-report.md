@@ -19,11 +19,11 @@ Android ဖုန်း/တက်ဘလက်တွေမှာ အဓိကအ�
 * Security and privacy ကိုသွားပါ
 * Install unknown apps ကိုသွားပါ
 
-![Security and Privacy settings](/src/assets/case-report/security-and-privacy.png)
+![Security and Privacy settings](../../../assets/case-report/security-and-privacy.png)
 
 * Chrome ရဲ့ဘေးမှာဖွင့်ပေးပါ။ Chrome browser ကနေ download လုပ်လိုက်တဲ့ application တွေကို install ပေးလုပ်အောင်ဖွင့်ပေးတာဖြစ်ပါတယ်။
 
-![Turn on chrome](/src/assets/case-report/turn-on-chrome.png)
+![Turn on chrome](../../../assets/case-report/turn-on-chrome.png)
 
 ဒါပြီးရင် Application download ပြီး install လို့ရပါပြီ။
 
@@ -31,21 +31,21 @@ Android ဖုန်း/တက်ဘလက်တွေမှာ အဓိကအ�
 mobile application ကို download လုပ်ဖို့အတွက် [CHDN Portal](https://portal.chdn-karenni.org) ကိုသွားပါ။
 * Login အောက်ဆုံးက Download Mobile Apps ကိုနှိပ်ပါ
 
-![Go to homepage](/src/assets/case-report/go-to-homepage.png)
+![Go to homepage](../../../assets/case-report/go-to-homepage.png)
 
 * CHDN Malaria Case Report tab ကိုသွားပါ
 * Download App ခလုတ်ကိုနှိပ်ပါ
 
-![Download](/src/assets/case-report/download.png)
+![Download](../../../assets/case-report/download.png)
 
 * Chrome မှာ download ပြီးသွားရင် CHDNCR.apk ဖိုင်ကိုဖွင့်ပါ
 
-![Downloaded file](/src/assets/case-report/downloaded-file.png)
+![Downloaded file](../../../assets/case-report/downloaded-file.png)
 
 * Install ကိုနှိပ်ပါ
 * Send app for scan ပေါ်လာရင် Don't send ကိုနှိပ်ပါ
 
-![Dont' send](/src/assets/case-report/dont-send-app-scan.png)
+![Dont' send](../../../assets/case-report/dont-send-app-scan.png)
 
 * Install လုပ်ပြီးသွားရင် Open ကိုနှိပ်ပါ
 
@@ -68,7 +68,7 @@ Application ဖွင့်ကာစမှာ profile page ကိုအရင်
 * ပြည့်ပြည့်စုံစုံထည့်သွင်းပြီးပြီဆိုရင် Home စာမျက်ကိုရောက်ပါမယ်
 * အောက်ဆုံးက navigation menu က Profile ကိုနှိပ်ပြီး မိမိ profile information ကိုပြန်လည်ကြည့်ရှုနိုင်ပါတယ်
 
-![Profile Icon](/src/assets/case-report/profile-nav.png)
+![Profile Icon](../../../assets/case-report/profile-nav.png)
 
 * profile မှာ တခုခု update လုပ်ဖို့လိုလာတိုင်း Edit Profile ခလုတ်ကိုနှိပ်ပြီး ဖြည့်နိုင်ပါတယ်
 
@@ -78,6 +78,9 @@ Volutneer အချက်အလက်တွေထည့်သွင်းတဲ�
 :::
 Profile information က အချက်အလက်ဖြည့်သွင်းသူရဲ့ အချက်အလက်တွေဖြစ်ပြီး volunteer information ကတော့ငှက်ဖျားစေတနာ့ဝန်ထမ်းတွေရဲ့ အချက်အလက်တွေဖြစ်ပါတယ်။ အချက်အလက်ဖြည့်သွင်းသူကိုယ်တိုင် ငှက်ဖျားစေတနာ့ဝန်ထမ်းဖြစ်နေမယ်ဆိုရင် profile information မှာကော Volunteer information မှာကော နှစ်ခါဖြည့်ပေးဖို့လိုပါတယ်။ profile information မှာလူတစ်ယောက်တည်းရဲ့ အချက်အလက်တွေဖြည့်ပေးဖို့လိုပြီး voluteer information မှာ မိမိသက်ဆိုင်ရာဒေသအလိုက် စေတနာ့ဝန်ထမ်းအရေအတွက်များစွာ ထည့်သွင်းထားနိုင်ပါတယ်။
 * Home စာမျက်နှာမှာ Add Record ခလုတ်ကိုနှိပ်ပါ
+
+![Add Record](../../../assets/case-report/add-record.png)
+
 * Volunteer အချက်အလက်မရှိသေးကြောင်း အသိပေးချက်ပေါ်လာရင် OK နှိပ်ပါ
 * ငှက်ဖျားစေတနာ့ဝန်ထမ်းအချက်အလက်ထည့်သွင်းပါ
 * volunteer list စာမျက်နှာပြန်ရောက်ရင် Add Volunteer ခလုတ်ကိုနှိပ်ပြီး ထပ်မံထည့်သွင်းနိုင်ပါတယ်
@@ -87,11 +90,15 @@ Profile information က အချက်အလက်ဖြည့်သွင်�
 ငှက်ဖျားစစ်ဆေးမှုအချက်အလက်တွေထည့်သွင်းတဲ့အခါ လိပ်စာနဲ့မှတ်ချက်ကလွဲပြီး ကျန်အချက်အလက်တွေကို English စာလုံးနဲ့ဖြည့်သွင်းပေးဖို့လိုပါတယ်
 :::
 * Home ကိုပြန်သွားပါ။ Add Record ခလုတ်ကိုနှိပ်ပါ
+
+![Add Record](../../../assets/case-report/add-record.png)
+
 * အချက်အလက်ပေးဖို့သူနေရာမှာ မိမိဖြည့်သွင်းခဲ့တဲ့ profile information ထဲကအတိုင်းပြပေးပါမယ်
 * အနီရောင်ကြယ်ပွင့်ပြထားတဲ့ နေရာတွေဟာ မဖြစ်မနေထည့်သွင်းပေးရမယ့်အချက်အလက်တွေဖြစ်ပါတယ်။
 * Volunteer ထဲမှာ RDT test စစ်ပေးတဲ့ စေတနာ့ဝန်ထမ်းအမည်ကိုရွေးချယ်ပါ။ 
 :::tip[Volunteer ရွေးရမည့်အထဲမပါသေးလျှင်]
 Volunteer ရွေးစရာထဲမှာ မိမိရွေးချင်တဲ့အမည်မပါသေးရင် navigation menu က Volunteers ထဲမှာထပ်မံထည့်သွင်းနိုင်ပါတယ်
+![Volunteer nav](../../../assets/case-report/volunteer-nav.png)
 :::
 * Reporting month ကိုရွေးပါ။ ယခုလက်ရှိလကိုပဲရွေးလို့ရမှာဖြစ်ပါတယ်
 * Reporting year ကိုရွေးပါ
@@ -117,9 +124,12 @@ Volunteer ရွေးစရာထဲမှာ မိမိရွေးချင
 * Up arrow icon နဲ့ပြပေးတဲ့အချက်အလက်တွေဟာ မိမိစက်ထဲမှာပဲသိမ်းထားတာဖြစ်ပြီး ပင်မ database ကိုမပို့ရသေးဘူးလို့ဆိုလိုပါတယ်
 * RDT positive လူနာတွေကို အနီရောင် highlight နဲ့ပြပေးပါတယ်
 
-![Patient row](/src/assets/case-report/patient-row.png)
+![Patient row](../../../assets/case-report/patient-row.png)
 
 * patient record တစ်ခုစီရဲ့ညာဘက်မှာ အစက်သုံးစက်ခလုတ်ကိုနှိပ်ပါ။ "အသေးစိတ်ကြည့်ရန်" ကိုဆက်နှိပ်ပါ။ ငှက်ဖျားစစ်ဆေးမှုမှတ်တမ်းကို ပြန်လည်ကြည့်ရှုနိုင်ပါတယ်
+
+![View Detail](../../../assets/case-report/view-detail.png)
+
 * မှတ်တမ်းများပြန်ပြင်စရာရှိလို့ update လုပ်ချင်ရင် "ပြင်ရန်" ခလုတ်ကိုနှိပ်ပါ
 
 ## Sending information
@@ -127,11 +137,23 @@ Volunteer ရွေးစရာထဲမှာ မိမိရွေးချင
 ပင်မ database ကိုအချက်အလက်တွေပေးပို့တဲ့အခါမှာတော့ အင်တာနက်ဆက်သွယ်မှုရှိဖို့လိုပါတယ်
 :::
 * Home စာမျက်နှာရဲ့အပေါ်ဆုံး top bar မှာ "ပို့မည်" ခလုတ်ကိုနှိပ်ပြီး အချက်အလက်တွေပေးပို့နိုင်ပါတယ်။
+
+![Upload](../../../assets/case-report/send-to-server.png)
+
 :::caution
 အင်တာနက်ချိတ်ဆက်မှုမရှိတဲ့အချိန် (သို့) ဆက်သွယ်မှုအားနည်းတဲ့အချိန်တွေမှာ "No internet connection" ပြရင် အချက်အလက်များပေးပို့လို့မရသေးပါဘူး
+
+![No internet connection alert](../../../assets/case-report/no-internet-connection.png)
+
 :::
 * Confirm Upload ပေါ်လာရင် "ပို့မည်" ကိုနိပ်ပြီးအတည်ပြုပေးပါ
+
+![Confirm Upload](../../../assets/case-report/confirm-upload.png)
+
 * အချက်အလက်များ အဆင်ပြေပြေပေးပို့ပြီးသွားရင်တော့ up arrow icon ကနေ အမှန်ခြစ်ပုံစံပြောင်းပြပေးပါမယ်
+
+![Icon changes](../../../assets/case-report/icon-changed.png)
+
 :::note
 ပေးပို့ပြီးသားဖြစ်ပြီး အမှန်ခြစ်ပြပြီးတဲ့ record ကို မိမိစက်ထဲမှာ ထပ်ပြင်လိုက်ပြီဆိုရင် မပို့ရသေးတဲ့ up arrow icon နဲ့ပြောင်းပြပေးပါတယ်။ နောက်တစ်ခေါက်အချက်အလက်ပေးပို့တဲ့အခါမှ အသစ်တွေနဲ့ အဟောင်းပြင်ချက်တွေကို တစ်ခါတည်းရောပြီး update လုပ်ပေးမှာဖြစ်ပါတယ်
 :::
@@ -139,29 +161,53 @@ Volunteer ရွေးစရာထဲမှာ မိမိရွေးချင
 ## Deleting records
 ပင်မ database ကို အချက်အလက်တွေပို့ပြီးသည်ဖြစ်စေ၊ မပို့ရသေးဘူးဖြစ်စေ record တွေကိုဖျက်လို့ရပါတယ်။
 * Patient list ရဲ့ညာဘက်က အစက်သုံးစက်ကိုနှိပ်ပြီး "အသေးစိတ်ကြည့်ရန်" ဖြစ်ဖြစ်၊ "စာရင်းပြင်ရန်" ဖြစ်ဖြစ် နှိပ်ပါ
+
+![More button](../../../assets/case-report/view-detail.png)
+
 * အပေါ်ဆုံးက Top bar ရဲ့ညာဘက်က အစက်သုံးစက်ကိုနှိပ်ပြီး "ယခုစာရင်းကိုဖျက်ရန်" ကိုနှိပ်ပါ
+
+![Delete current record](../../../assets/case-report/delete-record.png)
+
 * Confirm delete ပေါ်လာရင် "Delete" ကိုနှိပ်ပါ
+
+![Confirm delete record](../../../assets/case-report/confirm-delete.png)
+
 :::note
 Record တစ်ခုချင်းဖျက်တဲ့နည်းက ပင်မ database ကို ပို့ပြီးသားဖြစ်ဖြစ်၊ မပို့ရသေးတာဖြစ်ဖြစ် ဖျက်လို့ရပါတယ်
 :::
 နောက်တစ်နည်းက ပို့ပြီးသား record တွေကိုဖျက်ပစ်တာပါ။ ပို့ပြီးသား record တွေဟာ မိမိအတွက်အသုံးမလိုတော့ဘူးဆိုရင် (သို့) လုံခြုံရေးအရဖျက်ဖို့လိုလာခဲ့ရင် ခလုတ်တစ်ချက်နှိပ်ရုံနဲ့ တန်းဖျက်နိုင်ပါတယ်။
 * Home စာမျက်နှာ အပေါ်ဆုံးက Top bar ရဲ့ညာဘက်အစွန်မှာ အစက်သုံးစက်ခလုတ်ကိုနှိပ်ပါ
+
+![More button topbar](../../../assets/case-report/more-button-home.png)
+
 * "ပို့ပြီးသားစာရင်းများသာဖျက်ရန်" ခလုတ်ကိုနှိပ်ပါ။ ပို့ပြီးသားစာရင်းတွေဟာ ပင်မ database ထဲမှာရောက်နေပြီးဖြစ်တဲ့အတွက် မိမိစက်ထဲမှာအကုန်ပျက်သွားမှာဖြစ်ပြီး မပို့ရသေးတဲ့စာရင်းတွေပဲ ကျန်ခဲ့ပါလိမ့်မယ်
+
+![Delete only sent](../../../assets/case-report/delete-only-sent.png)
 
 ## Info and Guide page
 Info နဲ့ Guide စာမျက်နှာကတော့ application အတွက်သိသင်တဲ့အချက်အလက်တွေ ဝင်ရောက်ဖတ်ရှုနိုင်မည့် စာမျက်နှာတွေဖြစ်ပါတယ်။
 
+![Info and Guide pages](../../../assets/case-report/info-and-guide-nav.png)
+
 ## FAQ
-ပို့ပြီးသားစာရင်းတွေ ပြန်ပြင်လို့ရလား?
-ပို့ပြီးသားစာရင်းကို မိမိစက်ထဲမှာ မဖျက်ရသေးဘူးဆိုရင် ပြန်ပြင်လို့ရပါတယ်။ နောက်တစ်ခေါက်ပို့တဲ့အခါမှာ စာရင်းအသစ်အနေနဲ့မဟုတ်ဘဲ နဂိုစာရင်းကို update လုပ်ပေးသွားပါလိမ့်မယ်။
-ပို့ပြီးသားစာရင်းကို မိမိစက်ထဲမှာဖျက်လိုက်ပြီဆိုရင်တော့ ပြန်ပြင်လို့မရတော့ပါဘူး။ ပင်မ database ကို စီမံခန့်ခွဲတဲ့အပိုင်းမှာပဲ ဆက်ပြင်ရမှာဖြစ်ပါတယ်။
+<details>
+    <summary>ပို့ပြီးသားစာရင်းတွေ ပြန်ပြင်လို့ရလား?</summary>
+    ပို့ပြီးသားစာရင်းကို မိမိစက်ထဲမှာ မဖျက်ရသေးဘူးဆိုရင် ပြန်ပြင်လို့ရပါတယ်။ နောက်တစ်ခေါက်ပို့တဲ့အခါမှာ စာရင်းအသစ်အနေနဲ့မဟုတ်ဘဲ နဂိုစာရင်းကို update လုပ်ပေးသွားပါလိမ့်မယ်။
+    ပို့ပြီးသားစာရင်းကို မိမိစက်ထဲမှာဖျက်လိုက်ပြီဆိုရင်တော့ ပြန်ပြင်လို့မရတော့ပါဘူး။ ပင်မ database ကို စီမံခန့်ခွဲတဲ့အပိုင်းမှာပဲ ဆက်ပြင်ရမှာဖြစ်ပါတယ်။
+</details>
 
-စက်တစ်လုံးထက်ပိုသုံးလို့ရလား?
-Care report mobile application ဟာ authentication method ကိုအသုံးပြုထားတာမဟုတ်တဲ့အတွက် စက်ပစ္စည်းအလုံးရေ အကန့်အသတ်မရှိ ချဲ့ထွင်အသုံးပြုနိုင်ပါတယ်။ ဒါပေမယ့် အချက်အလက်ပေးပို့သူတစ်ဦးဟာ စက်တစ်လုံးပဲအသုံးပြုသင့်ပါတယ်။ နောက်စက်တစ်လုံးမှာ မိမိ profile information အားလုံး တထပ်တည်းတူအောင်ဖြည့်ပြီးသွင်းပေမယ့် နောက်ထပ် profile တစ်ယောက်အနေနဲ့ စာရင်းဝင်သွားမှာဖြစ်ပါတယ်။
+<details>
+    <summary>စက်တစ်လုံးထက်ပိုသုံးလို့ရလား?</summary>
+    Care report mobile application ဟာ authentication method ကိုအသုံးပြုထားတာမဟုတ်တဲ့အတွက် စက်ပစ္စည်းအလုံးရေ အကန့်အသတ်မရှိ ချဲ့ထွင်အသုံးပြုနိုင်ပါတယ်။ ဒါပေမယ့် အချက်အလက်ပေးပို့သူတစ်ဦးဟာ စက်တစ်လုံးပဲအသုံးပြုသင့်ပါတယ်။ နောက်စက်တစ်လုံးမှာ မိမိ profile information အားလုံး တထပ်တည်းတူအောင်ဖြည့်ပြီးသွင်းပေမယ့် နောက်ထပ် profile တစ်ယောက်အနေနဲ့ စာရင်းဝင်သွားမှာဖြစ်ပါတယ်။
+</details>
 
-အင်တာနက်မရတဲ့နေရာတွေမှာ သုံးလို့ရလား?
-ရပါတယ်။ Case report application ကို အင်တာနက်မရတဲ့နေရာတွေမှာ သုံးနိုင်အောင် အဓိကဒီဇိုင်းထုတ်ထားတာဖြစ်ပါတယ်။ ပင်မ database ကိုအချက်အလက်ပေးပို့တဲ့အခါမှာပဲအင်တာနက်ဆက်သွယ်မှု ရှိဖို့လိုအပ်ပါတယ်။
+<details>
+    <summary>အင်တာနက်မရတဲ့နေရာတွေမှာ သုံးလို့ရလား?</summary>
+    ရပါတယ်။ Case report application ကို အင်တာနက်မရတဲ့နေရာတွေမှာ သုံးနိုင်အောင် အဓိကဒီဇိုင်းထုတ်ထားတာဖြစ်ပါတယ်။ ပင်မ database ကိုအချက်အလက်ပေးပို့တဲ့အခါမှာပဲအင်တာနက်ဆက်သွယ်မှု ရှိဖို့လိုအပ်ပါတယ်။
+</details>
 
-စက်ပစ္စည်းပျောက်ဆုံး/ပျက်စီးသွားတဲ့အခါ အရင် data တွေပြန်ယူလို့ရလား?
-မရပါဘူး။ အချက်အလက်ပေးပို့တဲ့ပုံစံဟာ မိမိစက်ပစ္စည်းကနေ ပင်မ database ကို တစ်ကြောင်းတည်းသွားတာဖြစ်ပါတယ်။ offline-first one-way sync ဖြစ်တဲ့အတွက် ပင်မ database ကနေ အချက်အလက်တွေ ပြန်မပို့ပေးပါဘူး။ ပင်မ database ကိုပို့ပြီးသားအချက်အလက်တွေဟာ လုံခြုံတဲ့နေရာကိုရောက်ပြီးဖြစ်ပေမယ့် မပို့ရသေးတဲ့အချက်အလက်တွေကတော့ ပြန်ယူလို့မရနိုင်တော့ပါဘူး။
-အကြောင်းအမျိုးအမျိုးကြောင့် စက်ပစ္စည်းပျောက်ဆုံး/ပျက်စီးတဲ့အခါ နောက်ထပ်စက်အသစ်တစ်လုံးမှာ မိမိ profile information နဲ့ volunteer information တွေထပ်မံဖြည့်သွင်းပြီး ဆက်လက်အသုံးပြုနိုင်ပါတယ်။
+<details>
+    <summary>စက်ပစ္စည်းပျောက်ဆုံး/ပျက်စီးသွားတဲ့အခါ အရင် data တွေပြန်ယူလို့ရလား?</summary>
+    မရပါဘူး။ အချက်အလက်ပေးပို့တဲ့ပုံစံဟာ မိမိစက်ပစ္စည်းကနေ ပင်မ database ကို တစ်ကြောင်းတည်းသွားတာဖြစ်ပါတယ်။ offline-first one-way sync ဖြစ်တဲ့အတွက် ပင်မ database ကနေ အချက်အလက်တွေ ပြန်မပို့ပေးပါဘူး။ ပင်မ database ကိုပို့ပြီးသားအချက်အလက်တွေဟာ လုံခြုံတဲ့နေရာကိုရောက်ပြီးဖြစ်ပေမယ့် မပို့ရသေးတဲ့အချက်အလက်တွေကတော့ ပြန်ယူလို့မရနိုင်တော့ပါဘူး။
+    အကြောင်းအမျိုးအမျိုးကြောင့် စက်ပစ္စည်းပျောက်ဆုံး/ပျက်စီးတဲ့အခါ နောက်ထပ်စက်အသစ်တစ်လုံးမှာ မိမိ profile information နဲ့ volunteer information တွေထပ်မံဖြည့်သွင်းပြီး ဆက်လက်အသုံးပြုနိုင်ပါတယ်။
+</details>

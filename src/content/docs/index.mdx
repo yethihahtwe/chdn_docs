@@ -1,19 +1,17 @@
 ---
-title: Welcome to Starlight
+title: CHDN Documentations
 description: Get started building your docs site with Starlight.
 template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
+  tagline: All you can read in one place.
   image:
-    file: ../../assets/houston.webp
+    light: ../../assets/logo_light.png
+    dark: ../../assets/logo_dark.png
+    alt: CHDN logo
   actions:
-    - text: Example Guide
-      link: /guides/example/
+    - text: Read CHDN Case Report
+      link: /mobile-apps/chdn-case-report
       icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
-      variant: minimal
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
@@ -21,16 +19,16 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 ## Next steps
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+	<Card title="CHDN Case Report" icon="seti:db">
+		Offline-first mobile application designed for data collection in areas with limited internet connectivity. Available for Android phones/tablets and distributed within the organization.
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="Initial Setup" icon="setting">
+		Complete profile information and volunteer details in English. Add multiple volunteer records per region as needed.
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
+	<Card title="Data Collection" icon="add-document">
+		Enter malaria testing data including patient information, RDT results, and treatment details. The app supports both online and offline data entry.
 	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="Data Synchronization" icon="approve-check-circle">
+		Sync collected data with the central database when internet connectivity is available. Track sync status with intuitive icons.
 	</Card>
 </CardGrid>

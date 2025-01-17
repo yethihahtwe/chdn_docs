@@ -8,12 +8,17 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'CHDN Documentations',
+			favicon: './public/favicon.ico',
 			logo: {
-				src: './src/assets/logo.png',
+				src: './src/assets/logo_light.png',
 			},
 			// social: {
 			// 	github: 'https://github.com/withastro/starlight',
 			// },
+			customCss: [
+				// Path to your custom CSS file
+				'./src/styles/custom.css',
+			],
 			sidebar: [
 				{
 					label: 'Mobile Applications', items: [
