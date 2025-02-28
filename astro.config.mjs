@@ -25,6 +25,13 @@ export default defineConfig({
 						{label: 'CHDN Case Report', slug: 'mobile-apps/chdn-case-report'},
 					],
 				},
+				{
+					label: 'Web Applications', items: [
+						{label: 'Malaria Case Report', items: [
+							{label: 'Introduction', slug: 'web-apps/malaria-case-report/introduction'},
+						]},
+					],
+				}
 			],
 		}),
 	],
