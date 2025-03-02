@@ -29,7 +29,9 @@ export default defineConfig({
 					label: 'Web Applications', items: [
 						{label: 'Malaria Case Report', items: [
 							{label: 'Introduction', slug: 'web-apps/malaria-case-report/introduction'},
-							{label: 'Getting Started', slug: 'web-apps/malaria-case-report/getting-started'}
+							{label: 'Getting Started', slug: 'web-apps/malaria-case-report/getting-started'},
+							{label: 'Managing case reports', slug: 'web-apps/malaria-case-report/managing-case-reports'},
+							{label: 'Adding new case reports', slug: 'web-apps/malaria-case-report/adding-new-case-reports'}
 						]},
 					],
 				}
