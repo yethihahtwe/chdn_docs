@@ -17,22 +17,27 @@ Malaria case report ဇယားကွက်တွင် မှတ်တမ်�
 "Back" ခလုတ်၏ဘေးတွင် "Edit" ခလုတ်ရှိပါသည်။ ဤခလုတ်ကိုနှိပ်၍ လက်ရှိ malaria case report ၏အချက်အလက်များကို ပြင်ဆင်နိုင်ပါသည်။ အသေးစိတ်ကို [Editing malaria case reports](editing-case-reports) တွင်ဆက်လက်ဖတ်ရှုနိုင်ပါသည်။
 
 ##### Reporting Period
-###### Reporting month and year
+**Reporting month and year**
+
 Malaria case report အချက်အလက်များပေးပို့သည့် လနှင့်ခုနှစ်ကို ဖော်ပြထားပါသည်။
 
-##### RDT date
+**RDT date**
+
 RDT စစ်ဆေးမှုပြုလုပ်သည့် နေ့စွဲကိုဖော်ပြထားပါသည်။
 
-##### RDT
+**RDT Result**
+
 RDT စစ်ဆေးမှုရလဒ်ကိုဖော်ပြထားပါသည်။
 
-##### Malaria Parasite
+**Malaria Parasite**
+
 RDT တွင်စစ်ဆေးတွေ့ရှိသည့် ငှက်ဖျားပိုးအမျိုးအစားကို ဖော်ပြထားပါသည်။
 
-##### Symptoms
+**Symptoms**
+
 ငှက်ဖျားစစ်ဆေးတွေ့ရှိသူတွင် ခံစားရသည့် ရောဂါလက္ခဏာ ပြင်းထန်မှုကိုဖော်ပြထားပါသည်။
 
-##### Name
+**Name**
 ငှက်ဖျားစစ်ဆေးမှုခံယူသူ၏ အမည်။
 
 ##### Age
