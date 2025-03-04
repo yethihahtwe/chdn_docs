@@ -16,11 +16,15 @@ Malaria case report ဇယားကွက်တွင် မှတ်တမ်�
 ##### Edit Button
 "Back" ခလုတ်၏ဘေးတွင် "Edit" ခလုတ်ရှိပါသည်။ ဤခလုတ်ကိုနှိပ်၍ လက်ရှိ malaria case report ၏အချက်အလက်များကို ပြင်ဆင်နိုင်ပါသည်။ အသေးစိတ်ကို [Editing malaria case reports](editing-case-reports) တွင်ဆက်လက်ဖတ်ရှုနိုင်ပါသည်။
 
+<hr>
+
+### Record Details
 ##### Reporting Period
 **Reporting month and year**
 
 Malaria case report အချက်အလက်များပေးပို့သည့် လနှင့်ခုနှစ်ကို ဖော်ပြထားပါသည်။
 
+##### RDT
 **RDT date**
 
 RDT စစ်ဆေးမှုပြုလုပ်သည့် နေ့စွဲကိုဖော်ပြထားပါသည်။
