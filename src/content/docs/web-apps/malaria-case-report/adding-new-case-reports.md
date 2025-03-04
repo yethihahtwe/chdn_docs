@@ -5,7 +5,7 @@ description: Instructions for creating new malaria case reports in the system
 
 Malaria case report အသစ်များကို စနစ်အတွင်းသို့ ထည့်သွင်းရန်အတွက် လမ်းညွှန်ချက်စာမျက်နှာဖြစ်ပါသည်။
 :::note
-အများအားဖြင့်
+ယခု web application သည် မိုဘိုင်းဖုန်း/တက်ဘလက်များနှင့်ကောက်ယူပေးပို့လိုက်သည့် မှတ်တမ်းများကို စီမံခန့်ခွဲရန် အဓိကရည်ရွယ်ပါသည်။ 
 
 :::
 
