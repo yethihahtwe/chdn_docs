@@ -33,7 +33,8 @@ export default defineConfig({
 							{label: 'Managing case reports', slug: 'web-apps/malaria-case-report/managing-case-reports'},
 							{label: 'Viewing case reports', slug: 'web-apps/malaria-case-report/viewing-case-reports'},
 							{label: 'Adding new case reports', slug: 'web-apps/malaria-case-report/adding-new-case-reports'},
-							{label: 'Editing case reports', slug: 'web-apps/malaria-case-report/editing-case-reports'}
+							{label: 'Editing case reports', slug: 'web-apps/malaria-case-report/editing-case-reports'},
+							{label: 'Managing users', slug: 'web-apps/malaria-case-report/managing-users'},
 						]},
 					],
 				}

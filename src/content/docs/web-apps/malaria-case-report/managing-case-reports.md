@@ -5,14 +5,21 @@ description: How to manage existing malaria case reports
 
 ဤစာမျက်နှာသည် malaria case report များကို စီမံခန့်ခွဲရန် အသုံးပြုသည့် စာမျက်နှာ ဖြစ်ပါသည်။ ဤစာမျက်နှာတွင် malaria case report အားလုံးကို စာရင်းပြုစုဖော်ပြထားပြီး ရှာဖွေခြင်း၊ စစ်ထုတ်ခြင်း၊ စာရင်းထုတ်ယူခြင်းတို့ ပြုလုပ်နိုင်ပါသည်။ စာမျက်နှာဘယ်ဘက်ရှိ navigation menu တွင် Malaria Case Reports ကိုနှိပ်၍ ယခုစာမျက်နှာကိုဖွင့်နိုင်ပါသည်။
 
+![Malaria Case Reports panel navigation](../../../../assets/malaria_case_report_web_app/navigation_case_reports.png)
+
 ### Add malaria case
 စာမျက်နှာ၏ အပေါ်ဘက်ညာဘက်ထောင့်ရှိ "Add malaria case" ခလုတ်ကို နှိပ်၍ malaria case report အသစ်ကိုစာရင်းသွင်းနိုင်ပါသည်။ ဤခလုတ်ကို နှိပ်လိုက်ပါက ဒေတာသွင်းရန် ဖောင်တစ်ခု ပေါ်လာပါမည်။ အသေးစိတ်ကို [Adding new case reports](adding-new-case-reports) တွင်ဆက်လက်ဖတ်ရှုနိုင်ပါသည်။
 
+![Add Malaria Case](../../../../assets/malaria_case_report_web_app/add_malaria_case.png)
+
 ### Download Excel
 စာမျက်နှာ၏ အပေါ်ဘက်ညာဘက်တွင် "Download Excel" ခလုတ်ရှိပါသည်။ ဤခလုတ်ကို နှိပ်၍ လက်ရှိ filter လုပ်ထားသော malaria case report များကို Excel ဖိုင်အဖြစ် ထုတ်ယူနိုင်ပါသည်။
+![Download Excel](../../../../assets/malaria_case_report_web_app/download_excel.png)
 
 ### Filters
 "Filters" ခေါင်းစဉ်အောက်၌ malaria case report များကိုစစ်ထုတ်ကြည့်ရှု (filter) နိုင်မည့် အချက်များပါဝင်ပါသည်။
+
+![Filters](../../../../assets/malaria_case_report_web_app/malaria_case_report_table_filters.png)
 
 ##### Period of RDT
 RDT စမ်းသပ်စစ်ဆေးခဲ့သည့် ကာလကို ရွေးချယ်နိုင်ပါသည်။ From တွင် report စတင်လိုသည့်ရက်ကို ရွေးချယ်ပါ။ Until တွင် report ပြီးဆုံးလိုသည့်ရက်ကို ရွေးချယ်ပါ။
@@ -47,6 +54,8 @@ Reset သည် filter ဖြင့်ရွေးချယ်ထားသည်
 
 ### Data Table
 စာမျက်နှာအောက်ပိုင်းတွင် Malaria case report အချက်အလက်ဇယား ရှိပါသည်။ ဇယားတွင် အောက်ပါကော်လံများ ပါဝင်ပါသည်
+
+![Table headers](../../../../assets/malaria_case_report_web_app/malaria_case_report_table_headers.png)
 
 ##### No.
 ဇယားကွက်တွင်မှတ်တမ်းတစ်ခုချင်းစီအလိုက် နံပါတ်စဉ်ဖြစ်ပါသည်။
@@ -92,6 +101,9 @@ RDT စစ်ဆေးမှုရလဒ်ကို ဖော်ပြထား
 
 ##### Data Selection
 မှတ်တမ်းတခုချင်းစီ၏ ဘယ်ဘက်တွင် အမှန်ခြစ်ကွက်လေးများရှိပါသည်။ ဤအမှန်ခြစ်လေးများကို ရွေးချယ်၍ malaria case report များကို တစုတစည်းတည်း select လုပ်ရွေးယူနိုင်ပါသည်။
+![Data selection](../../../../assets/malaria_case_report_web_app/malaria_case_report_bulk_action_checkbox.png)
 
 ##### Pagination
 စာမျက်နှာ၏ အောက်ဆုံးတွင် ဇယားကွက်စာမျက်နှာ နံပါတ်များ ပေါ်လာပါမည်။ ဤနံပါတ်များကို နှိပ်၍ နောက်စာမျက်နှာများသို့ သွားနိုင်ပါသည်။
+
+![Table pagination](../../../../assets/malaria_case_report_web_app/malaria_case_report_table_pagination.png)

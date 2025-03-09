@@ -11,6 +11,8 @@ Malaria case report အသစ်များကို စနစ်အတွင�
 
 **Add Malaria Case** ခလုတ်ကိုနှိပ်ပါ။
 
+![Add Malaria Case](../../../../assets/malaria_case_report_web_app/add_malaria_case.png)
+
 ### Reporting Period
 
 #### Reporting Month and year
@@ -172,6 +174,7 @@ Malaria case report အသစ်များကို စနစ်အတွင�
 ### Saving Information
 
 ပုံစံကိုပြည့်စုံစွာဖြည့်စွက်ပြီးပါက စာမျက်နှာအောက်ခြေရှိ "Create" ခလုတ်ကို နှိပ်၍ အချက်အလက်များကို သိမ်းဆည်းနိုင်ပါသည်။
+![Create Malaria Case Report Button](../../../../assets/malaria_case_report_web_app/malaria_case_report_create_button.png)
 
 ---
 :::tip

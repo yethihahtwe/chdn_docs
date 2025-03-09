@@ -11,6 +11,7 @@ description: The starting point to use case report application
 
 ### Dashboard Overview
 Email, Password မှန်ကန်စွာထည့်သွင်းလိုက်သည်နှင့် Information Portal Dashboard သို့ရောက်ပါမည်။ မိမိ login ဝင်လိုက်သည့် account သည် Malaria Case Report application ကို ဝင်ရောက်ခွင့်ရှိပါက Quick Navigation တွင် **Malaria Case Report** ခလုတ်ကိုတွေ့ရပါမည်။ နှိပ်လိုက်လျှင် Malaria Case Report Dashboard သို့ရောက်ရှိပါမည်။
+![Malaria Case Report Navigation](../../../../assets/malaria_case_report_web_app/navigation_malaria_case_report.png)
 
 #### Main Dashboard Components
 ##### Stats Overview

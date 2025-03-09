@@ -16,8 +16,12 @@ Malaria case report တစ်ခုကို ပြင်ဆင်တည်း�
 1. ဘယ်ဘက် Navigation ရှိ Malaria Case Reports ကိုနှိပ်ပါ။
 2. ဇယားတွင်ပြထားသော case တစ်ခုချင်းစီ၏ အဆုံးတွင်ရှိသော pencil icon (✏️) ကိုနှိပ်ပါ။
 
+![Row edit button](../../../../assets/malaria_case_report_web_app/malaria_case_report_edit.png)
+
 #### View page မှတဆင့်ဝင်ရောက်ခြင်း
 Malaria case report ၏ အသေးစိတ်ကြည့်ရှုရာစာမျက်နှာတွင် စာမျက်နှာအပေါ်ညာဘက်ထောင့်ရှိ "Edit" ခလုတ်ကိုနှိပ်ပါ။
+
+![View case report nagivation buttons](../../../../assets/malaria_case_report_web_app/malaria_case_report_edit_back_button.png)
 
 ### Editing records
 
@@ -124,6 +128,8 @@ Reporting User ID သည် Reporting User Name ကိုရွေးချယ�
 
 ပြင်ဆင်တည်းဖြတ်ပြီးပါက စာမျက်နှာအောက်ခြေရှိ "Save" ခလုတ်ကို နှိပ်၍ အချက်အလက်များကို သိမ်းဆည်းနိုင်ပါသည်။
 
+![Save Button](../../../../assets/malaria_case_report_web_app/malaria_case_report_edit_save_button.png)
+
 ပြင်ဆင်တည်းဖြတ်ပြီးနောက် အချက်အလက်များတည်းဖြတ်ပြီးကြောင်း အသိပေးစာသားဖော်ပြပေးမည်ဖြစ်ပြီး၊ အပေါ်ညာဘက်ရှိ "Back" ခလုတ်နှိပ်၍ ပြန်လည်ထွက်ခွာနိုင်ပါသည်။
 
 ---
@@ -135,10 +141,16 @@ Reporting User ID သည် Reporting User Name ကိုရွေးချယ�
 
 အချက်အလက်များကို ပြင်ဆင်တည်းဖြတ်နေစဉ် ပြန်လည်သိမ်းဆည်းလိုခြင်းမရှိပါက စာမျက်နှာအထက်ညာဘက်ရှိ "Cancel" ခလုတ်ကို နှိပ်၍ ပြင်ဆင်ခြင်းမှ ထွက်ခွာနိုင်ပါသည်။ ထိုသို့လုပ်ဆောင်ပါက ပြင်ဆင်တည်းဖြတ်ထားသော အချက်အလက်များပျက်သွားပြီး မူလအချက်အလက်များအတိုင်း ပြန်လည်ဖော်ပြပေးမည်ဖြစ်ပါသည်။
 
+![Cancel Button](../../../../assets/malaria_case_report_web_app/malaria_case_report_edit_cancel_button.png)
+
 ---
 
 ### Deleting case reports
 ငှက်ဖျားစစ်ဆေးမှုအချက်အလက်များကို ဖျက်လိုပါက Edit စာမျက်နှာ၏ အထက်ညာဘက်အစွန်ရှိ "Delete" ခလုတ်ကိုနှိပ်၍ ဖျက်နိုင်ပါသည်။ Delete နှိပ်ပြီးနောက်အတည်ပြုချက်ထပ်မံပေါ်လာသည့်အခါ Delete ထပ်နှိပ်ခြင်းဖြင့် ဖျက်နိုင်ပါသည်။
+
+![Delete Case Report Button](../../../../assets/malaria_case_report_web_app/malaria_case_report_delete_button.png)
+
+![Delete confirmation dialog](../../../../assets/malaria_case_report_web_app/malaria_case_report_delete_confirmation_dialog.png)
 
 :::caution
 Delete နှိပ်၍ဖျက်လိုက်သည့် ငှက်ဖျားစစ်ဆေးမှုမှတ်တမ်းများကို ပြန်လည်ရယူနိုင်ခြင်းမရှိတော့ပါ။ ထို့ကြောင့်မဖျက်ခင် သေချာစွာစစ်ဆေးသင့်ပါသည်
